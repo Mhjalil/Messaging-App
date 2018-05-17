@@ -6,7 +6,9 @@ target 'messagingapp' do
   use_frameworks!
 
   # Pods for messagingapp
+  
 
+  # Added these code from Firebase Documentation
   pod 'Firebase'
   pod 'Firebase/Database'	
 
